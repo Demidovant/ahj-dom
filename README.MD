@@ -1,3 +1,7 @@
+![CI](https://github.com/demidovant/ahj-dom/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/c932l4ec2qmfq3o1?svg=true)](https://ci.appveyor.com/project/Demidovant/ahj-dom)
+
+
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
